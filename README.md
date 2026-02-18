@@ -27,4 +27,4 @@ A lightweight, native Swift script for [Raycast](https://www.raycast.com/) that 
 
 ## License
 
-MIT
+[MIT](LICENSE) © 2026 herock
