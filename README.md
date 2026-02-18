@@ -19,7 +19,7 @@ A lightweight, native Swift script for [Raycast](https://www.raycast.com/) that 
 2. **Add to Raycast**:
    - Open Raycast Settings (`Cmd + ,`) → **Extensions**.
    - Click `+` → **Add Script Directory**.
-   - Select the folder you just cloned (or its parent folder).
+   - Select the folder you just cloned.
 
 3. **Assign Hotkey**:
    - Find **"Jump Cursor to Next Screen"** in Raycast.
